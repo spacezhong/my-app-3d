@@ -100,6 +100,8 @@ function D3(){
                     <div className='top-img'></div>   
                     <p className='top-title'></p>
                 </div>
+                <div>左边</div>
+                <div>右边</div>
                 
             </div>
             {/* 中部 */}
