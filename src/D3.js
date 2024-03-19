@@ -99,9 +99,8 @@ function D3(){
                 <div className='top-content-1'>
                     <div className='top-img'></div>   
                     <p className='top-title'></p>
-                    <div>中间</div>
+                    <div>尾部</div>
                 </div>
-                
             </div>
             {/* 中部 */}
             <div>
